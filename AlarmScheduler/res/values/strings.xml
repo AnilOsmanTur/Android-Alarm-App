@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlarnSheduler</string>
+    <string name="action_add">Add New</string>
+    <string name="delete">Delete</string>
+    <string name="ok_button">Ok</string>
+    <string name="alarm_name">Morning Moring!</string>
+    <string name="apply_button">Apply</string>
+    <string name="alarm_alert">Alarm Alert</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="start_alarm">Start Alarm</string>
+    <string name="wake_up">Wake up time</string>
+    <string name="stop_button_text">Stop</string>
+    <string name="stop_alarm_text">OK! OK! I WAKE UP!</string>
+    <string name="snooze_button_text">Snooze</string>
+    <string name="snooze_text">Come on 5 more minutes</string>
+</resources>
